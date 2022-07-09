@@ -7,6 +7,13 @@
 // Pull in modern reset
 @import 'reset';
 
+// Utilities
+@import 'utilities/flow';
+@import 'utilities/radius';
+@import 'utilities/splitter';
+@import 'utilities/wrapper';
+@import 'utilities/visually-hidden';
+
 // Global CSS starts
 body {
   line-height: 1.5;
