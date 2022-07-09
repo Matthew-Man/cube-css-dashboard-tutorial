@@ -9,3 +9,4 @@ A banking dashboard that you build in the Piccalilli tutorial: Build a dashboard
 1. Clone the repo
 2. Run `npm install`
 3. Run `npm start` to run and watch Sass or run `npm run build` to create a production version of the CSS.
+4. To run the project locally, you can use the command `npx serve` - more information [here](https://piccalil.li/quick-tip/quick-and-easy-local-server/).
